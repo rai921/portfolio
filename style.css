@@ -282,6 +282,10 @@ section {
   border-radius: 2rem;
 }
 
+.ul_list_about {
+  list-style: none;
+}
+
 .arrow {
   position: absolute;
   right: -5rem;
